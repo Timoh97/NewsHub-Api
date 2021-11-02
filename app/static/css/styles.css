@@ -1,0 +1,31 @@
+nav{
+    background-color: bisque;
+}
+body {
+    background-color: chocolate;
+}
+
+button{
+    border-radius: 20px;
+    background-color: beige;
+}
+
+.card-cont{
+    background-color: beige;
+    border-radius: 3px dotted chocolate;
+    margin-left: 3px dotted chocolate;
+}
+body {
+     border: 3px solid chocolate;
+     margin: 3px;
+     border-radius: 20px;
+}
+
+.footer{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3em;
+    border-radius: 10px;
+}
