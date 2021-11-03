@@ -28,10 +28,10 @@ Helps list and preview news articles from various sources.
 
 ## CLONING PROJECT
 
-* Run thje folowing commands in your terminal
+* Run the folowing commands in your terminal
     * $ git clone 
 
-    * cd NEWS-SEARCH-API
+    * cd NewsHub-Api
 
 ## RUNNING THE APPLICATION
 
